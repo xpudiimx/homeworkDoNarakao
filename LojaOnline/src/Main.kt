@@ -6,7 +6,5 @@ fun main() {
     produto[1] = Produto("Smarthphone2",3200.0,6)
     produto[2] = Produto("Smarthphone3",4800.0,8)
 
-    produto[0]?.prdctStatus()
-    produto[1]?.prdctStatus()
-    produto[2]?.prdctStatus()
+    produto[0]?.menuPrdct()
 }
