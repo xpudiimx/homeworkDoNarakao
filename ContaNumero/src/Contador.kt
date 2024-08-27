@@ -12,6 +12,6 @@ class Contador {
             }
         }
         println("${a} números pares")
-        println("${b} números pares")
+        println("${b} números impares")
     }
 }
